@@ -9,7 +9,7 @@
 
 ## My Skills
 
-- 💬 I already know html, css, javascript, typescript, php, (my)sql, projects, web communications, firma, Drupal, Sharepoint & development in general. 
+- 💬 I already know html, css, javascript, typescript, php, (my)sql, projects, web communications, Figma/AdobeXD, Drupal, Sharepoint, wordpress & development in general. 
 
 
 <!--
