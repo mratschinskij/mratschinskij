@@ -7,7 +7,7 @@
 - 📫 How to reach me: mratschinskij@gmail.com
 - ⚡ Fun fact: I think pineapple belongs to certain pizza (f.e. hawai) but not for all kinds :).
 
-##My Skills
+## My Skills
 
 - 💬 I already know html, css, javascript, typescript, php, (my)sql, projects, web communications, firma, Drupal, Sharepoint & development in general. 
 
